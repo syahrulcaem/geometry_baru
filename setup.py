@@ -16,7 +16,7 @@ setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
-    url='https://github.com/syahrulcaem/new_mygeometry14',
+    url='https://github.com/syahrulcaem/geometry_baru',
     packages=find_packages(),
     license='MIT',
     install_requires=[],
