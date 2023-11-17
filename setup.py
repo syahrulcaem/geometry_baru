@@ -9,7 +9,7 @@ LONG_DESCRIPTION = (this_directory / 'README.md').read_text()
 
 # Setting up
 setup(
-    name="mygeometri_hanifaslam",
+    name="newgeometry14",
     version=VERSION,
     author="hanifaslam",
     author_email="<aslamhanif141@gmail.com>",
