@@ -16,7 +16,7 @@ setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
-    url='https://github.com/KidiXDev/pymal_basic',
+    url='https://github.com/hanifaslamm/new-mygeometry-hanif',
     packages=find_packages(),
     license='MIT',
     install_requires=[],
